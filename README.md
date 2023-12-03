@@ -5,7 +5,7 @@
 
 
 ### Within the EmployeeSQLreview folder, you'll find
-###  full_schema.sql file - used to create tables
-### employee_DB_queries.sql file - combined sql queries
-### employee_DB _complete.sql - combined schema and queries
-### the .sql file for each query
+### * full_schema.sql file - used to create tables
+### * employee_DB_queries.sql file - combined sql queries
+### * employee_DB _complete.sql - combined schema and queries
+### * the .sql file for each query
