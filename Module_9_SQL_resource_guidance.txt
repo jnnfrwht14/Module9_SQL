@@ -8,3 +8,6 @@ ERD: https://app.quickdatabasediagrams.com/#/
 http://127.0.0.1:61485/help/help/erd_tool.html#table-relationship-options
 https://www.postgresql.org/docs/8.1/datatype.html#DATATYPE-NUMERIC
 https://stackoverflow.com/questions/2991405/what-is-the-difference-between-tinyint-smallint-mediumint-bigint-and-int-in-m
+
+Spoke with Kelli the tutor about the schema and foreign keys.
+Chatted in Ask BCS LA Yiang about the order of .csv imports.
