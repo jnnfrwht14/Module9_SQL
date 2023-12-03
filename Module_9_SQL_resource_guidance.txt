@@ -11,3 +11,5 @@ https://stackoverflow.com/questions/2991405/what-is-the-difference-between-tinyi
 
 Spoke with Kelli the tutor about the schema and foreign keys.
 Chatted in Ask BCS LA Yiang about the order of .csv imports.
+
+https://www.playerzero.ai/advanced/sql-facts/how-to-get-a-specific-date-in-sql
